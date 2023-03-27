@@ -51,6 +51,9 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 - [Nuxt 3 で Vuetify 3 を使う](https://zenn.dev/coedo/articles/nuxt3-vuetify3)
 - [wireframes](https://vuetifyjs.com/en/getting-started/wireframes/)
 - [Vuetify3でマテリアルアイコン(mdi)を使う際のベストプラクティス](https://zenn.dev/ichii731/articles/66b4cf79d2cae6)
+- [【Vue 3】Composition API の基本](https://b1san-blog.com/post/vue/vue-3-composition-api/)
+- [プロパティ](https://ja.vuejs.org/guide/components/props.html#prop-passing-details)
+- [【Vue】単一ファイルコンポーネントの命名規則まとめ【ファイル名から記法まで】](https://qiita.com/ngron/items/ab2a17ae483c95a2f15e)
 
 # use
 
