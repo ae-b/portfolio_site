@@ -38,7 +38,7 @@ const { data } = await useFetch("/portfolio_site", {
       </v-navigation-drawer>
 
     <v-app-bar>
-      <v-toolbar-title>Shiga Anna's Portfolio</v-toolbar-title>
+      <v-toolbar-title class="font-weight-bold">Shiga Anna's Portfolio</v-toolbar-title>
       <v-spacer></v-spacer>
       <ToolIcon />
     </v-app-bar>
@@ -48,6 +48,9 @@ const { data } = await useFetch("/portfolio_site", {
         <MicroCmsContent :title="content.id" class="main-content" />
       </v-container>
     </v-main>
+
+    <v-footer app>
+    </v-footer>
   </v-app>
 </template>
 

@@ -1,8 +1,4 @@
-# Nuxt 3 Minimal Starter
-
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
-## Setup
+# Setup
 
 Make sure to install the dependencies:
 
@@ -54,10 +50,13 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 - [【Vue 3】Composition API の基本](https://b1san-blog.com/post/vue/vue-3-composition-api/)
 - [プロパティ](https://ja.vuejs.org/guide/components/props.html#prop-passing-details)
 - [【Vue】単一ファイルコンポーネントの命名規則まとめ【ファイル名から記法まで】](https://qiita.com/ngron/items/ab2a17ae483c95a2f15e)
+- [border-radius](https://vuetifyjs.com/en/styles/border-radius/)
 
 # use
 
 - [nuxt3](https://nuxt.com/)
+- [Vue.js3](https://ja.vuejs.org/guide/introduction.html)
+- [Vuetify3](https://vuetifyjs.com/en/)
 - [microcms](https://microcms.io/)
 - [netlify](https://www.netlify.com/)
 - [お名前.com](https://www.onamae.com/)
